@@ -1,0 +1,8 @@
+{
+  "short_name": "Single price grid",
+  "name": "Single price grid component master",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
